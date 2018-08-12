@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [Introduction](README.md)
+* [SmartScreen](README.md)
 
 ## SmartScreen API
 
