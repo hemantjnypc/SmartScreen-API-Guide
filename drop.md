@@ -1,4 +1,4 @@
-## 'Drop' command
+## 'Drop'
 
 ---
 
