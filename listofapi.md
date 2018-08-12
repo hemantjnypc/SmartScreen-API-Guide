@@ -2,7 +2,6 @@
 
 ---
 
-
 | <p>Drop | Push a URL - Web App, E-Commerce, Bourses Real-time Tickers & Analytics, Media - Video, Image, Audio... |</p>
 | :--- | :--- |
 | Notify | Flash a _notification message_ with limited _user-defined _attributes on the _main_ screen |
