@@ -1,4 +1,4 @@
-## 'Marquee' command
+## 'Marquee'
 
 ---
 
