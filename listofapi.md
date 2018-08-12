@@ -2,7 +2,8 @@
 
 ---
 
-| Drop | Push a URL, Video, Image |
+
+| <p>Drop | Push a URL - Web App, E-Commerce, Bourses Real-time Tickers & Analytics, Media - Video, Image, Audio... |</p>
 | :--- | :--- |
 | Notify | Flash a _notification message_ with limited _user-defined _attributes on the _main_ screen |
 | Toast | Flash a <i>message</i> using a <i>Warning, Error</i> or a <i>Success</i> heading & icon alongwith a <i>transition</i> effect for the purpose of highlighting an <i>action(s) status</i> reporting  |
