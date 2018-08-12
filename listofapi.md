@@ -5,7 +5,7 @@
 | Drop | Push a URL - Web App, E-Commerce, Bourses Real-time Tickers & Analytics, Media - Video, Image, Audio... |
 | :--- | :--- |
 | Notify | Flash a _notification message_ with limited _user-defined _attributes on the _main_ screen |
-| Toast | Flash a <i>message</i> using a <i>Warning, Error</i> or a <i>Success</i> heading & icon alongwith a <i>transition</i> effect for the purpose of highlighting an <i>action(s) status</i> reporting |
+| Toast | Flash a <i>message</i> using a <i>Warning, Error</i> or a <i>Success</i> heading & icon alongwith a <i>transition</i> effect for the purpose of highlighting an <i>action(s) status</i> |
 | Marquee | _Text Scrolling_ with _user-defined attributes_ on the entire  screen for a _user-defined_ _duration_ |
 | Text | Push _text_ with _user-defined_ attributes including _animation type & duration _on _user-defined _part of the screen |
 | App | Build your own <i>SmartScreen App</i> |
