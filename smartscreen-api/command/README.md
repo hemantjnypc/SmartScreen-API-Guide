@@ -1,5 +1,5 @@
 ---
-description: xMsg & xRPC Channels
+description: xMsg & xRPC communication channels
 ---
 
 # Commands & Usage
