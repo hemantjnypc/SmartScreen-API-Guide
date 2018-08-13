@@ -1,18 +1,18 @@
-# Toast
+# "Toast"
 
-## CLI
+### CLI
 
 ```text
 toast (message) (heading) (icon) (transition) (duration)
 ```
 
-## JSON
+### JSON
 
 ```text
 {"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":"(duration)"}
 ```
 
-## Example
+### Example
 
 ```text
 toast HelloWorld! Welcome info plain
@@ -28,4 +28,6 @@ toast HelloWorld! Welcome info plain
 > 2. Icon: can be _info, warning, error_ and _success_
 > 3. Transition: can be _plain, fade_ and _slide_
 > 4. duration: unit is _‘seconds’, &gt;= 1_
+
+
 

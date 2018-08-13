@@ -1,19 +1,19 @@
-# Drop
+# "Drop"
 
-## CLI
+### CLI
 
 ```text
 drop [(url)|(mpath)] (duration) (frame) (animate) (animate duration) (play mode)
 ```
 
-## JSON
+### JSON
 
 ```text
 {"cmd":"drop","type":"url","src":["(url1)|(mpath1)","(url2)|(mpath2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","anidur
 ation":"(animate duration)","bgcolor":"(background color)","pmode":"(play mode)"}
 ```
 
-## Example
+### Example
 
 ```text
 drop http://cdn.ypcall.com/miki/yp/djdemo/sugar.mp4 30 main
