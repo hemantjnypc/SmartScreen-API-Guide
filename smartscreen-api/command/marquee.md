@@ -1,3 +1,7 @@
+---
+description: Scroll text/ticker
+---
+
 # "Marquee"
 
 ### CLI

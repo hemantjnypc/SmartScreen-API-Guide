@@ -1,3 +1,7 @@
+---
+description: Build & publish your SmartScreen app
+---
+
 # "App"
 
 ### CLI

@@ -1,3 +1,7 @@
+---
+description: Report action status
+---
+
 # "Toast"
 
 ### CLI

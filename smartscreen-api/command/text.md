@@ -1,3 +1,7 @@
+---
+description: Display animated text with user-definable attributes on any frame
+---
+
 # "Text"
 
 ### CLI

@@ -1,3 +1,7 @@
+---
+description: Flash text notification
+---
+
 # "Notify"
 
 ### CLI
