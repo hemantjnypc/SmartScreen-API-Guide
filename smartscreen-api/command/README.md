@@ -1,3 +1,7 @@
+---
+description: xMsg & xRPC Channels
+---
+
 # Commands & Usage
 
 * Use of **xMsg** to control SmartScreen _**\(Asynchronous\)**_
