@@ -4,7 +4,7 @@ description: SmartScreen APIs
 
 # List of APIs
 
-| **API** | **Description** |
+| Command | **Description** |
 | :--- | :--- |
 | Drop | Push a URL - _App, E-Commerce Portal, Bourses Ticker & Analytics, Media - Video, Image & Audio..._ |
 | Notify | Flash a text _Notification_ on the _main_ screen with limited attributes |
