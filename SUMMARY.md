@@ -1,20 +1,20 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Overview
 
-* [SmartScreen](README.md)
+* [SmartScreen](overview/readme.md)
 
 ## SmartScreen API
 
-* [System Diagram](systemdiagram.md)
-* [List of APIs](listofapi.md)
-* [Commands & Usage](command.md)
-  * [Drop](drop.md)
-  * [Notify](notify.md)
-  * [Toast](/toast.md)
-  * [Marquee](/marquee.md)
-  * [Text](/text.md)
-  * [App](app.md)
-
-
+* [System Diagram](smartscreen-api/systemdiagram.md)
+* [List of APIs](smartscreen-api/listofapi.md)
+* [Commands & Usage](smartscreen-api/command/README.md)
+  * [Drop](smartscreen-api/command/drop.md)
+  * [Notify](smartscreen-api/command/notify.md)
+  * [Toast](smartscreen-api/command/toast.md)
+  * [Marquee](smartscreen-api/command/marquee.md)
+  * [Text](smartscreen-api/command/text.md)
+  * [App](smartscreen-api/command/app.md)
 
