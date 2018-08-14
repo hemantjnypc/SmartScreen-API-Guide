@@ -1,10 +1,8 @@
-# Table of contents
-
-* [Introduction](README.md)
+# [Introduction](README.md)
 
 ## Overview
 
-* [SmartScreen](overview/overview.md)
+* [SmartScreen](overview/README.md)
 
 ## SmartScreen API
 
