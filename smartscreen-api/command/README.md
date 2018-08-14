@@ -28,5 +28,9 @@ Parameters:
 Example:   {"target":"demo"},{"cmd":”drop”,“type”:”url”,“src”:[“http://ypcloud.com”]}
 ```
 
-* _Command Format_ 1. CLI: _Command line_ command, type is _string_ 2. JSON: {"cmd":"drop",…}
+* _Command Format_ 
+  * CLI: _Command line_ command, type is _string_ 
+  * JSON: {"cmd":"drop",…}
+
+
 

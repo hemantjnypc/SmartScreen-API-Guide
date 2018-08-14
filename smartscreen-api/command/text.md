@@ -1,5 +1,5 @@
 ---
-description: Display animated text with user-definable attributes on any frame
+description: Display animated text with user-defined attributes on any frame of the screen
 ---
 
 # "Text"

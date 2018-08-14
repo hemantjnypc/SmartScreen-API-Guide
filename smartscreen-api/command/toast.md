@@ -1,5 +1,5 @@
 ---
-description: Report action status
+description: Highlight action status
 ---
 
 # "Toast"
