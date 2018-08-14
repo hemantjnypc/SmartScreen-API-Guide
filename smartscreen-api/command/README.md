@@ -30,5 +30,3 @@ Example:   {"target":"demo"},{"cmd":”drop”,“type”:”url”,“src”:[�
 
 * _Command Format_ 1. CLI: _Command line_ command, type is _string_ 2. JSON: {"cmd":"drop",…}
 
-
-

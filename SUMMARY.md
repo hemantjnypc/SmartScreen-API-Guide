@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [SmartScreen](overview/readme.md)
+* [SmartScreen](overview/overview.md)
 
 ## SmartScreen API
 

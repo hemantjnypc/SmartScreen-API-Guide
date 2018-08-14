@@ -4,20 +4,20 @@ description: 'Drop a url - app, commerce portal, tickers, media - videos, images
 
 # "Drop"
 
-### CLI
+## CLI
 
 ```text
 drop [(url)|(mpath)] (duration) (frame) (animate) (animate duration) (play mode)
 ```
 
-### JSON
+## JSON
 
 ```text
 {"cmd":"drop","type":"url","src":["(url1)|(mpath1)","(url2)|(mpath2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","anidur
 ation":"(animate duration)","bgcolor":"(background color)","pmode":"(play mode)"}
 ```
 
-### Example
+## Example
 
 ```text
 drop http://cdn.ypcall.com/miki/yp/djdemo/sugar.mp4 30 main
@@ -32,7 +32,7 @@ drop http://cdn.ypcall.com/miki/yp/djdemo/sugar.mp4 30 main fade 2 loop
 2","bgcolor":"white","pmode":"loop"}
 ```
 
-### _Note_
+## _Note_
 
 > 1. duration: unit is _‘seconds’, ‘0’_ means _play till end_
 > 2. frame: can be main, t1, t2, t3 or t4
