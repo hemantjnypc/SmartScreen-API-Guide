@@ -17,6 +17,7 @@
   * ["Marquee"](smartscreen-api/command/marquee.md)
   * ["Text"](smartscreen-api/command/text.md)
   * ["App"](smartscreen-api/command/app.md)
-* ["Touch"](smartscreen-api/touch.md)
-* ["Status"](smartscreen-api/status.md)
+  * ["Touch"](smartscreen-api/touch.md)
+  * ["Status"](smartscreen-api/status.md)
 
+## Error Codes
