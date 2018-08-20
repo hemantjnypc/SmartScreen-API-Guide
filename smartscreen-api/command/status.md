@@ -1,7 +1,3 @@
----
-description: Check frame status
----
-
 # "Status"
 
 ## CLI

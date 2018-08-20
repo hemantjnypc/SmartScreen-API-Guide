@@ -1,7 +1,3 @@
----
-description: On-screen control of a playlist or/ and a slideshow
----
-
 # "Touch"
 
 ## CLI
