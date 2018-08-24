@@ -1,3 +1,7 @@
+---
+description: Remote control for navigating through a playlist/ slide show
+---
+
 # "Touch"
 
 ## CLI

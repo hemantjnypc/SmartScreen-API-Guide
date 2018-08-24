@@ -1,5 +1,5 @@
 ---
-description: Flash text notification
+description: Flash text/ notification on the main frame
 ---
 
 # "Notify"

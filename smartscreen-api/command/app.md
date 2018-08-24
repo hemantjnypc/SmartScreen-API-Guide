@@ -1,5 +1,5 @@
 ---
-description: Build & publish your SmartScreen app
+description: Build a SmartScreen app
 ---
 
 # "App"

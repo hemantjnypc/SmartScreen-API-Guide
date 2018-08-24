@@ -1,5 +1,5 @@
 ---
-description: SmartScreen APIs
+description: List of APIs
 ---
 
 # List of APIs

@@ -1,5 +1,7 @@
 ---
-description: 'Drop a url - app, commerce portal, tickers, media - videos, images, audios...'
+description: >-
+  Drop a site, portal, media URL - e-Commerce, Bourse Analytics & Trading,
+  Videos, Image Albums, Audios
 ---
 
 # "Drop"

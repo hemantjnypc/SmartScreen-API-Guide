@@ -1,3 +1,7 @@
+---
+description: Target device pairing status
+---
+
 # "Status"
 
 ## CLI

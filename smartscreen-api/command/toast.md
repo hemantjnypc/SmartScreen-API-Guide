@@ -1,5 +1,7 @@
 ---
-description: Highlight action status
+description: >-
+  Action response notification with user-defined icon, heading and message at
+  the bottom right of the main frame
 ---
 
 # "Toast"

@@ -1,5 +1,7 @@
 ---
-description: Scroll text/ticker
+description: >-
+  Scroll text horizontally with user-defined attributes for a user-defined
+  duration at the bottom of the main frame
 ---
 
 # "Marquee"
