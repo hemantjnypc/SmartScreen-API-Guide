@@ -1,5 +1,5 @@
 ---
-description: System diagram
+description: SmartScreen system diagram
 ---
 
 # System Diagram
