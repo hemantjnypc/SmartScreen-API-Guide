@@ -12,7 +12,7 @@ Function: xmsg.send()
 Usage:
     {"in":"{"fm":"(from DDN)","to":"(to DDN)"}","data":"{"cmd":"(SmartScreen command)", "attributes..."}""}
 
-Example:   {"in":"{"fm":"koYh3Ik1","to":"pJRt6H9G"}","data":{"cmd":“drop”,“type”:”url”,“src”:[“http://ypcloud.com”]}""}
+Example:   {"in":"{"fm":"koYh3Ik1","to":"pJRt6H9G"}","data":"{"cmd":“drop”,“type”:”url”,“src”:[“http://www.ypcloud.com”]}""}
 ```
 
 * Use of **xRPC** to control SmartScreen _**\(Synchronous\)**_
