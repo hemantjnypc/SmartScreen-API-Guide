@@ -29,6 +29,6 @@ Example:   {"target":"demo","data":"{"cmd":”drop”,“type”:”url”,“sr
 ```
 
 * _Command Format_ 
-  * CLI: _Command line_ command, type is _string_ 
+  * CLI: _Command line_ command, type is '_string_ '
   * JSON: {"cmd":"drop",…}
 

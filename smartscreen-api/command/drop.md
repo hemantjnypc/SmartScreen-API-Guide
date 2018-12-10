@@ -36,12 +36,12 @@ drop http://cdn.ypcall.com/miki/yp/djdemo/sugar.mp4 30 main fade 2 loop
 
 ## _Note_
 
-> 1. duration: unit is _'sec’_, _0_ means play _till the end_ of the media file
-> 2. frame: can be _main, t1, t2, t3_ or _t4_
+> 1. \(duration\): unit is _'sec’_, _0_ means play _till the end_ of the media file
+> 2. \(frame\): can be _main, t1, t2, t3_ or _t4_
 > 3. CLI mode: use “,” to separate multiple URLs
-> 4. animate: can be _delay, fade, slide, left_ or _right_
-> 5. animate duration: unit is _‘sec’_
-> 6. pmode: can be _loop_ or _random_
+> 4. \(animate\): can be _delay, fade, slide, left_ or _right_
+> 5. \(animate duration\): unit is _‘sec’_
+> 6. \(play mode\): can be _loop_ or _random_
 
 
 
