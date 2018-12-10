@@ -6,5 +6,5 @@ description: >-
 
 # SmartScreen
 
-![](../.gitbook/assets/smartscreen.png)
+![SmartScreen](../.gitbook/assets/smartscreen.png)
 
