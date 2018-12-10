@@ -1,5 +1,5 @@
 ---
-description: Requesting target device pairing status with the source 'ChatBot' endpoint
+description: Requesting target device pairing status
 ---
 
 # Status
