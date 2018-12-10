@@ -1,8 +1,10 @@
 ---
-description: Flash text/ notification on the main frame
+description: >-
+  Flash text (notification) on the top left side of the main frame in a preset
+  word art
 ---
 
-# "Notify"
+# Notify
 
 ## CLI
 
@@ -13,7 +15,7 @@ notify (message) (duration) (color) (size)
 ## JSON
 
 ```text
-{"cmd":"notify","msg":"(message)","duration":"(duration)","color":"(color)":"size":"(size)"}
+{"cmd":"notify","msg":"(message)","duration":(duration),"color":"(color)":"size":(size)}
 ```
 
 ## Example
@@ -27,7 +29,7 @@ notify “Hello World!” 30
 ```
 
 ```text
-{"cmd":"notify","msg":"Hello World!","duration":"30","color":"lime":"size":"4"}
+{"cmd":"notify","msg":"Hello World!","duration":30,"color":"lime":"size":4}
 ```
 
 ## Message Keywords

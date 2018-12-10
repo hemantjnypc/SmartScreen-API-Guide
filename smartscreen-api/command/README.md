@@ -10,7 +10,7 @@ description: Synchronous and asynchronous communication
 Function: xmsg.send()
 
 Usage:
-    {"in":"{"fm":"(from DDN)","to":"(to DDN)"}","data":"{"cmd":"(SmartScreen command)", "attributes..."}""}
+    {"in":"{"fm":"(from DDN)","to":"(to DDN)"}","data":"{"cmd":"(SmartScreen command)", 'attribute' key_value pairs...}""}
 
 Example:   {"in":"{"fm":"koYh3Ik1","to":"pJRt6H9G"}","data":"{"cmd":“drop”,“type”:”url”,“src”:[“http://www.ypcloud.com”]}""}
 ```
@@ -22,7 +22,7 @@ Function: xrpc.call()
 
 Parameters:
   target:  {"target":"demo"} //'demo' being the user-defined target_device name (an 'alias' in lieu of the target_device 'DDN')
-  func:    {"cmd":"(SmartScreen API command)", "attributes.."}
+  func:    {"cmd":"(SmartScreen API command)", 'attribute' key_value pairs)...}
   body:    "data":func
 
 Example:   {"target":"demo","data":"{"cmd":”drop”,“type”:”url”,“src”:[“http://ypcloud.com”]}"}

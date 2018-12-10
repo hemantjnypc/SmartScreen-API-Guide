@@ -1,8 +1,10 @@
+---
+description: >-
+  Concurrently active 5-frame smart screen for interactive apps, playlists &
+  slideshows push with on-screen remote
+---
+
 # SmartScreen
 
 ![](../.gitbook/assets/smartscreen.png)
-
-```text
-SmartScreen API Guide | YPCloud Inc. | Copyright©2018 | Last Updated: 2017/11/29
-```
 
