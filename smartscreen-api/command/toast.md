@@ -31,7 +31,7 @@ toast HelloWorld! Welcome info plain
 ## _Note_
 
 > 1. In CLI mode, if message contains _‘space’_, use "" to enclose the message string 
-> 2. Icon: can be _info, warning, error_ and _success_
-> 3. Transition: can be _plain, fade_ and _slide_
-> 4. duration: unit is _‘seconds’, &gt;= 1_
+> 2. \(icon\): can be _info, warning, error_ and _success_
+> 3. \(transition\): can be _plain, fade_ and _slide_
+> 4. \(duration\): unit is _‘sec’, &gt;= 1_
 

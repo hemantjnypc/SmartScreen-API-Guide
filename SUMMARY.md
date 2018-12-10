@@ -15,7 +15,7 @@
   * [Notify](smartscreen-api/command/notify.md)
   * [Toast](smartscreen-api/command/toast.md)
   * [Marquee](smartscreen-api/command/marquee.md)
-  * ["Text"](smartscreen-api/command/text.md)
+  * [Text](smartscreen-api/command/text.md)
   * ["App"](smartscreen-api/command/app.md)
   * ["Touch"](smartscreen-api/command/touch.md)
   * ["Status"](smartscreen-api/command/status.md)
