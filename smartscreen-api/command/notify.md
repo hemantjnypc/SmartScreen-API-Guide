@@ -1,6 +1,6 @@
 ---
 description: >-
-  Flash text (notification) on the top left side of the main frame in a preset
+  Flash text notification on the top left side of the main frame in a preset
   word art
 ---
 

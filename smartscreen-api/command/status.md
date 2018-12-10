@@ -1,22 +1,22 @@
 ---
-description: Target device pairing status
+description: Requesting target device pairing status with the source 'ChatBot' endpoint
 ---
 
-# "Status"
+# Status
 
 ## CLI
 
-status \(arg\) \(argv\)
+status
 
 ## JSON
 
-{"cmd":"status","option":"\(arg\) ","value":"\(argv\)"}
+{"cmd":"status"}
 
 ## Example
 
-status frame main
+status
 
-{"cmd":"status","option":"frame","value":"main"}
+{"cmd":"status"}
 
 
 

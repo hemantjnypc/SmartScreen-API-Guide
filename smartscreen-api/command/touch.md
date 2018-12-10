@@ -1,8 +1,10 @@
 ---
-description: Remote control for navigating through a playlist/ slide show
+description: >-
+  On-screen remote for controlling and navigating playlists/ slide shows// media
+  and document file(s)
 ---
 
-# "Touch"
+# Touch
 
 ## CLI
 
@@ -13,7 +15,7 @@ touch (option) (value)
 ## JSON
 
 ```text
-{"cmd":"touch","option":"(arg) ","value":"(argv)"}
+{"cmd":"touch","option":"(arg)","value":"(argv)"}
 ```
 
 ## Example
@@ -22,7 +24,7 @@ touch playnext
 
 {"cmd":"touch","option":"playnext","value":""}
 
-_On-screen remote control_ for control of a playlist or/and a slideshow/ history of a certain media-type on the _SmartScreen_
+_On-screen remote control_ for controlling _play, pause,  stop, mute/unmute,  vol +/-, next, prev, first, last navigation_ of __adhoc _media files/ playlist tracks/ album images/ videos/ slideshow slides/ playstation channels_
 
 ## _Note_
 
@@ -50,4 +52,6 @@ _On-screen remote control_ for control of a playlist or/and a slideshow/ history
 | 18 | console | console control command |
 | 19 | setting | setting control command |
 | 20 | eisetting | setting process command |
+
+1. Please note that \(value\) is required for commands _console, setting_ & _eisetting_  in the list above, for all others it is set to _"" \(null\)_
 

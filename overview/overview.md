@@ -1,7 +1,7 @@
 ---
 description: >-
-  Concurrently active 5-frame smart screen for interactive apps, playlists &
-  slideshows push with on-screen remote
+  Concurrently active 5-frame smart screen for invoking/ playback of interactive
+  apps, playlists, slideshows, media and document files with on-screen remote
 ---
 
 # SmartScreen

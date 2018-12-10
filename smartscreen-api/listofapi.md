@@ -6,15 +6,15 @@ description: SmartScreen APIs
 
 | **Command** | **Description** |
 | :--- | :--- |
-| Drop | Push a URL - _App, E-Commerce Portal, Bourses Ticker & Analytics, Media - Video, Image & Audio..._ |
-| Notify | Flash a text _Notification_ on the _main_ screen with limited attributes |
-| Toast | Flash a _message_ using a _Warning, Error_ or a _Success heading & icon_ along with a _transition_ effect for the purpose of _highlighting an action\(s\) status_ |
-| Marquee | _Text Scrolling_ with _user-defined attributes_ on the entire  screen for a _user-defined_ _duration_ |
-| Text | Push _text_ with _user-defined_ attributes including \_animation type & duration\_ on \_user-defined\_ frame of the screen |
-| App | Build your own SmartScreen App |
-| Frame | Define the _part of the screen_ to which _content_ is pushed - can be _t1, t2, t3, t4 or main_ |
-| Touch | Operate a _Touch-screen Remote_ to _control_ an _online media playlist_ or/and _slideshow/_ _history_ of visited URLs |
-| Status | Returns the _pairing status_  of the _target\_SS\_device_ as well as a particular _frame's status_ |
-| Mote | Integration with other _DDNs_ over _MoteBus_ |
-| Emoji | Push _Emojis, Stickers_ to the _target\_SS\_device_ |
+| Drop | Sites, portals, media files, documents, playlists, slides URL push |
+| Notify | Text notification flash on top left side of the main frame in a predefined word art format |
+| Toast | Action response notification with user-defined icon, heading and a message, at the bottom right of the main frame |
+| Marquee | Horizontal text scroll with user-defined attributes for a user-defined duration at the bottom of the main frame |
+| Text | Text push with user-defined animation and attributes on a user-defined frame |
+| App\* | App URL push to a user-defined frame for a user-defined duration |
+| Frame | Screen frame to which content is intended to be pushed, can assume t1, t2, t3, t4 or main values |
+| Touch | On-screen remote for controlling and navigating playlists/ slide shows/ media and document files |
+| Status | Target device pairing status with the source 'ChatBot' endpoint |
+| Mote\* | For the purpose of integration with underlying MoteBus, to be used for EI apps |
+| Emoji\* | Emojis, Stickers push to the target device |
 

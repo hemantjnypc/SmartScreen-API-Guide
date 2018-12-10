@@ -1,6 +1,6 @@
 ---
 description: >-
-  Drop a site, portal, media playlist, slideshow URL viz. e-Commerce, Bourses' 
+  Push a site, portal, media playlist, slideshow URL viz. e-Commerce, Bourses' 
   Trading & Analytics, Videos, Images, Audio clips...
 ---
 
