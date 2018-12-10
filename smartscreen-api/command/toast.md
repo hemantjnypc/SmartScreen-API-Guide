@@ -1,10 +1,10 @@
 ---
 description: >-
-  Action response notification with user-defined icon, heading and message at
+  Action response notification with user-defined icon, heading and a message, at
   the bottom right of the main frame
 ---
 
-# "Toast"
+# Toast
 
 ## CLI
 
@@ -15,7 +15,7 @@ toast (message) (heading) (icon) (transition) (duration)
 ## JSON
 
 ```text
-{"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":"(duration)"}
+{"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":(duration)}
 ```
 
 ## Example
@@ -25,7 +25,7 @@ toast HelloWorld! Welcome info plain
 ```
 
 ```text
-{"cmd":"toast","msg":"Hello World!","heading":"Welcome","icon":"info":"transition":"plain","duration":"5"}
+{"cmd":"toast","msg":"Hello World!","heading":"Welcome","icon":"info":"transition":"plain","duration":5}
 ```
 
 ## _Note_

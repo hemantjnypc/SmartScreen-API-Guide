@@ -13,7 +13,7 @@
 * [Commands & Usage](smartscreen-api/command/README.md)
   * [Drop](smartscreen-api/command/drop.md)
   * [Notify](smartscreen-api/command/notify.md)
-  * ["Toast"](smartscreen-api/command/toast.md)
+  * [Toast](smartscreen-api/command/toast.md)
   * ["Marquee"](smartscreen-api/command/marquee.md)
   * ["Text"](smartscreen-api/command/text.md)
   * ["App"](smartscreen-api/command/app.md)
