@@ -4,10 +4,9 @@
 
 ## Overview
 
-* [SmartScreen](overview/overview.md)
-
 ## SmartScreen API
 
+* [SmartScreen](smartscreen-api/overview.md)
 * [System Diagram](smartscreen-api/systemdiagram.md)
 * [List of APIs](smartscreen-api/listofapi.md)
 * [Commands & Usage](smartscreen-api/command/README.md)
