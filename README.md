@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 **`SmartScreen API Guide | YPCloud Inc. | Copyright ©2018 | Last Updated: 2018/08/20`**
 

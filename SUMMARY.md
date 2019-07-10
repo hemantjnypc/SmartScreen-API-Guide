@@ -21,4 +21,5 @@
   * [Emoji\*](smartscreen-api/command/untitled.md)
   * [Mote\*](smartscreen-api/command/mote.md)
 * [Error Codes](error-codes.md)
+* [SmartScreenAPI.pdf](smartscreenapi.pdf.md)
 
